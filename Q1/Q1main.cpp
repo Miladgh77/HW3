@@ -17,7 +17,7 @@ int main()
 	32, 17,
 	23, 25
 	*/
-	std:cout << h1.parent(2) << std::endl; // 101
+	std::cout << h1.parent(2) << std::endl; // 101
 	std::cout << h1.LeftChild(0) << std::endl;  // 32
 	std::cout << h1.RightChild(0) << std::endl;  // 17
 
